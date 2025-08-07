@@ -5,3 +5,4 @@ D:\Projects\Dotnetframework\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
 D:\Projects\Dotnetframework\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
 D:\Projects\Dotnetframework\lab2\obj\Debug\lab2.exe
 D:\Projects\Dotnetframework\lab2\obj\Debug\lab2.pdb
+D:\Projects\Dotnetframework\Lab2\obj\Debug\lab2.exe.config
