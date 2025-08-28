@@ -1,0 +1,8 @@
+C:\Users\Amit\source\repos\Lab-Assingment-3\obj\Debug\Lab-Assingment-3.csproj.AssemblyReference.cache
+C:\Users\Amit\source\repos\Lab-Assingment-3\obj\Debug\Lab-Assingment-3.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\Lab-Assingment-3\bin\Debug\Lab-Assingment-3.exe.config
+C:\Users\Amit\source\repos\Lab-Assingment-3\bin\Debug\Lab-Assingment-3.exe
+C:\Users\Amit\source\repos\Lab-Assingment-3\bin\Debug\Lab-Assingment-3.pdb
+C:\Users\Amit\source\repos\Lab-Assingment-3\obj\Debug\Lab-Assingment-3.exe
+C:\Users\Amit\source\repos\Lab-Assingment-3\obj\Debug\Lab-Assingment-3.pdb
+C:\Users\Amit\source\repos\Lab-Assingment-3\obj\Debug\Lab-Assingment-3.exe.config
