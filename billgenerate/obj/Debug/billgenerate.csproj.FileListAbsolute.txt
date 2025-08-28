@@ -1,0 +1,8 @@
+D:\Projects\Dotnetframework\billgenerate\bin\Debug\billgenerate.exe.config
+D:\Projects\Dotnetframework\billgenerate\bin\Debug\billgenerate.exe
+D:\Projects\Dotnetframework\billgenerate\bin\Debug\billgenerate.pdb
+D:\Projects\Dotnetframework\billgenerate\obj\Debug\billgenerate.csproj.AssemblyReference.cache
+D:\Projects\Dotnetframework\billgenerate\obj\Debug\billgenerate.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnetframework\billgenerate\obj\Debug\billgenerate.exe
+D:\Projects\Dotnetframework\billgenerate\obj\Debug\billgenerate.pdb
+D:\Projects\Dotnetframework\billgenerate\obj\Debug\billgenerate.exe.config

@@ -1,0 +1,8 @@
+------ BILL ------
+Bill No: 1001
+Customer: John Doe
+Item: Laptop
+Quantity: 2
+Price per Item: 45000
+Total: 90000
+------------------
