@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "D:\\Projects\\Dotnetframework\\lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohan\\AppData\\Local\\Temp\\1532b857-8b52-4811-a48e-ec8f1de958d9_Lab-Assingment-3.zip.8d9\\Lab-Assingment-3\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0E9C8FF-EDAB-4E95-AC2A-477585F4BFE3}|lab4.csproj|d:\\projects\\dotnetframework\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0E9C8FF-EDAB-4E95-AC2A-477585F4BFE3}|lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,23 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\rohan\\AppData\\Local\\Temp\\1532b857-8b52-4811-a48e-ec8f1de958d9_Lab-Assingment-3.zip.8d9\\Lab-Assingment-3\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\rohan\\AppData\\Local\\Temp\\1532b857-8b52-4811-a48e-ec8f1de958d9_Lab-Assingment-3.zip.8d9\\Lab-Assingment-3\\BankAccount.cs [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:56:51.446Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Dotnetframework\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\Dotnetframework\\lab4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAA3wAQBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T04:54:32.505Z",
               "EditorCaption": ""
