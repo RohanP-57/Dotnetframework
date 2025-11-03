@@ -1,0 +1,15 @@
+D:\Projects\Dotnetframework\InterlockedIncrement\bin\Debug\net8.0\InterlockedIncrement.exe
+D:\Projects\Dotnetframework\InterlockedIncrement\bin\Debug\net8.0\InterlockedIncrement.deps.json
+D:\Projects\Dotnetframework\InterlockedIncrement\bin\Debug\net8.0\InterlockedIncrement.runtimeconfig.json
+D:\Projects\Dotnetframework\InterlockedIncrement\bin\Debug\net8.0\InterlockedIncrement.dll
+D:\Projects\Dotnetframework\InterlockedIncrement\bin\Debug\net8.0\InterlockedIncrement.pdb
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.AssemblyInfoInputs.cache
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.AssemblyInfo.cs
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.sourcelink.json
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.dll
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\refint\InterlockedIncrement.dll
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.pdb
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\InterlockedIncrement.genruntimeconfig.cache
+D:\Projects\Dotnetframework\InterlockedIncrement\obj\Debug\net8.0\ref\InterlockedIncrement.dll
