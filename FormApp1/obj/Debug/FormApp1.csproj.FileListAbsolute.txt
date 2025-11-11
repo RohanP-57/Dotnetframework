@@ -1,0 +1,12 @@
+D:\Projects\Dotnetframework\FormApp1\bin\Debug\FormApp1.exe.config
+D:\Projects\Dotnetframework\FormApp1\bin\Debug\FormApp1.exe
+D:\Projects\Dotnetframework\FormApp1\bin\Debug\FormApp1.pdb
+D:\Projects\Dotnetframework\FormApp1\bin\Debug\class_library.dll
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.csproj.AssemblyReference.cache
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.Form1.resources
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.Properties.Resources.resources
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.csproj.GenerateResource.cache
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.csproj.Up2Date
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.exe
+D:\Projects\Dotnetframework\FormApp1\obj\Debug\FormApp1.pdb
