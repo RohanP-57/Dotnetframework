@@ -4,16 +4,6 @@
 <head>
     <meta charset="utf-8" />
     <title>Login - Calculator</title>
-    <style>
-        body { font-family: Arial, Helvetica, sans-serif; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; background:#f5f7fa; }
-        .card { background:#fff; padding:24px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); width:320px; }
-        .card h1 { margin:0 0 12px; font-size:20px; }
-        .field { margin-bottom:12px; display:flex; flex-direction:column; }
-        label { margin-bottom:6px; font-size:13px; color:#333; }
-        input[type="text"], input[type="password"] { padding:8px; border:1px solid #ccc; border-radius:4px; font-size:14px; }
-        button { width:100%; padding:10px; background:#0078d4; color:white; border:none; border-radius:4px; font-size:15px; cursor:pointer; }
-        #message { margin-top:12px; font-size:14px; }
-    </style>
     <script>
         // Static credentials (for demo only)
         function doLogin(evt) {
@@ -23,10 +13,9 @@
             var msg = document.getElementById('message');
 
             if (user === 'admin' && pass === 'password') {
-                msg.style.color = 'green';
-                msg.textContent = 'Login successful. Welcome, ' + user + '!';
-                // Optionally redirect:
-                // window.location.href = 'Home.html';
+                // Redirect to the calculator page on successful login
+                window.location.href = 'Calculator.aspx';
+                return true;
             } else {
                 msg.style.color = 'red';
                 msg.textContent = 'Invalid username or password.';

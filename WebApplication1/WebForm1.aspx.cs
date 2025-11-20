@@ -9,7 +9,6 @@ namespace WebApplication1
             double num1 = Convert.ToDouble(TextBox1.Text);
             double num2 = Convert.ToDouble(TextBox2.Text);
             double result = 0;
-
             string operation = DropDownList1.SelectedItem.Text;
 
             switch (operation)

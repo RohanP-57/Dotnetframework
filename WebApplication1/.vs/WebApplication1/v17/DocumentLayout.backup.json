@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\Projects\\Dotnetframework\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|d:\\projects\\dotnetframework\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{65EE9E5A-D87A-4108-962D-8B20F662FA5E}|..\\WebApplication2\\WebApplication2.csproj|d:\\projects\\dotnetframework\\webapplication2\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|D:\\Projects\\Dotnetframework\\WebApplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +12,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|D:\\Projects\\Dotnetframework\\WebApplication1\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|solutionrelative:webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|d:\\projects\\dotnetframework\\webapplication1\\calculator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|solutionrelative:calculator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|d:\\projects\\dotnetframework\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38417C5D-4DE8-40E7-AD19-5AB3D81E24EB}|WebApplication1.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +29,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "D:\\Projects\\Dotnetframework\\WebApplication2\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebService1.asmx.cs",
+              "ToolTip": "D:\\Projects\\Dotnetframework\\WebApplication2\\WebService1.asmx.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebService1.asmx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:07:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.aspx",
+              "DocumentMoniker": "D:\\Projects\\Dotnetframework\\WebApplication1\\Calculator.aspx",
+              "RelativeDocumentMoniker": "Calculator.aspx",
+              "ToolTip": "D:\\Projects\\Dotnetframework\\WebApplication1\\Calculator.aspx",
+              "RelativeToolTip": "Calculator.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-20T06:01:24.711Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,7 +71,8 @@
               "RelativeToolTip": "WebForm1.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:30:38.511Z"
+              "WhenOpened": "2025-11-19T06:30:38.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,13 +82,14 @@
               "RelativeDocumentMoniker": "WebForm1.aspx.cs",
               "ToolTip": "D:\\Projects\\Dotnetframework\\WebApplication1\\WebForm1.aspx.cs",
               "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T06:22:21.529Z"
+              "WhenOpened": "2025-11-19T06:22:21.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "D:\\Projects\\Dotnetframework\\WebApplication1\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
