@@ -1,0 +1,11 @@
+D:\Projects\Dotnetframework\DBConnectivity\bin\Debug\DBConnectivity.exe.config
+D:\Projects\Dotnetframework\DBConnectivity\bin\Debug\DBConnectivity.exe
+D:\Projects\Dotnetframework\DBConnectivity\bin\Debug\DBConnectivity.pdb
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.csproj.AssemblyReference.cache
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.Form1.resources
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.Properties.Resources.resources
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.csproj.GenerateResource.cache
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.exe
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.pdb
+D:\Projects\Dotnetframework\DBConnectivity\obj\Debug\DBConnectivity.exe.config
